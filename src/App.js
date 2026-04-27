@@ -10,37 +10,37 @@ function App() {
     {
       title: "Step 1: Open Canva",
       desc: "Start your design journey by opening Canva.",
-      img: "/images/1-home.png"
+      img: "/images/1-home.webp"
     },
     {
       title: "Step 2: Templates",
       desc: "Explore ready-made templates.",
-      img: "/images/2-templates.png"
+      img: "/images/2-templates.webp"
     },
     {
       title: "Step 3: Search Logo",
       desc: "Search for logo designs.",
-      img: "/images/3-search.png"
+      img: "/images/3-search.webp"
     },
     {
       title: "Step 4: Choose Template",
       desc: "Pick a design that matches your idea.",
-      img: "/images/4-template-preview.png"
+      img: "/images/4-template-preview.webp"
     },
     {
       title: "Step 5: Customize",
       desc: "Edit colors, text, and layout.",
-      img: "/images/5-editor.png"
+      img: "/images/5-editor.webp"
     },
     {
       title: "Step 6: Final Logo",
       desc: "Your logo is now ready!",
-      img: "/images/6-final.png"
+      img: "/images/6-final.webp"
     },
     {
       title: "Step 7: Download",
       desc: "Export your design.",
-      img: "/images/7-download.png"
+      img: "/images/7-download.webp"
     }
   ];
 
